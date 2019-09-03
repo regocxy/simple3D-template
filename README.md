@@ -1,2 +1,3 @@
 # simple3D-template
-一个typescript模板工程
+
+simple3D的typescript模板工程

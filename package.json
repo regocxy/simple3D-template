@@ -1,0 +1,27 @@
+{
+  "name": "simple3d",
+  "version": "1.0.0",
+  "description": "教你快速实现一个3D渲染器",
+  "main": "build.js",
+  "scripts": {
+    "dev": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regocxy/simple3D.git"
+  },
+  "author": "regocxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regocxy/simple3D/issues"
+  },
+  "homepage": "https://github.com/regocxy/simple3D#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "open": "^6.4.0",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-dev-middleware": "^3.7.0"
+  }
+}
